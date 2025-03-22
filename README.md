@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harsh Shukla</h1>
 <h3 align="center">Architecting the Web: Code, Creativity, and Collaboration.</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/f6a3ce319a938926c27df1feef26eeadac0d53253750363b0bdb8412f0726c3e/68747470733a2f2f6d656469612e74656e6f722e636f6d2f595a506e477550655a763841414141642f636f64696e672e676966">
+<img align="right" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" />
 
 <p align="left"> <a href="https://twitter.com/harsh_stwt" target="blank"><img src="https://img.shields.io/twitter/follow/harsh_stwt?logo=twitter&style=for-the-badge" alt="harsh_stwt" /></a> </p>
 
